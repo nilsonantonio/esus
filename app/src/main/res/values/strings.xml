@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">eSus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="identificacao">IDENTIFICAÇÃO</string>
+    <string name="identificacao_cidadao">IDENTIFICAÇÃO DO USUÁRIO / CIDADÃO</string>
+    <string name="numero_cartao_sus">Nº DO CARTÃO SUS</string>
+    <string name="nome_completo">NOME COMPLETO</string>
+    <string name="nome_social">NOME SOCIAL</string>
+    <string name="sexo">SEXO</string>
+    <string name="sexo_m">Masculino</string>
+    <string name="sexo_f">Feminino</string>
+    <string name="raca_cor">RAÇA / COR</string>
+    <string name="raca_cor_branca">Branca</string>
+    <string name="raca_cor_negra">Negra</string>
+    <string name="raca_cor_parda">Parda</string>
+    <string name="raca_cor_amarela">Amarela</string>
+    <string name="raca_cor_indigena">indígena</string>
+</resources>
